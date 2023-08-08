@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m @MannyE
-- 🧑🏾‍💼 I'm currently a student at the University of Texas at dallas pursuing a computer science degree
-- 👀 I’m interested in Front-End or Full-Stack web development
-- 🌱 I’m currently learning JAVA to bolster my language variety. I'm comfortable coding in the Web stack as well as C++
+- 🧑🏾‍💼 I'm a Senior at the University of Texas at dallas pursuing a computer science degree (Dec 2023)
+- 👀 I’m interested in Full-Stack development, High Frequency Trading or Database Admin Roles
+- 🌱 I excel at Java, C++, Python and the MERN Stack
 
 <h2>📫 How to reach me </h2>
 <ol>
