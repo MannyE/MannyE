@@ -1,8 +1,8 @@
 <h1> Get to Know Me!! </h1>
 
 
-- 👋 Hi, I’m @MannyE
-- 🧑🏾‍💼 I'm a Senior at the University of Texas at dallas pursuing a computer science degree (Dec 2023)
+- 👋 Hey there, welcome to my portfolio
+- 🧑🏾‍💼 My name is Emmanuel and I'm a Senior at the University of Texas at Dallas pursuing a computer science degree (Dec 2023)
 - 👀 I’m interested in Full-Stack development, High Frequency Trading or Database Admin Roles
 - 🌱 I excel at Java, C++, Python and the MERN Stack
 
