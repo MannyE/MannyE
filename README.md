@@ -2,7 +2,7 @@
 
 
 - 👋 Hey there, welcome to my portfolio
-- 🧑🏾‍💼 My name is Emmanuel and I'm a Senior at the University of Texas at Dallas pursuing a computer science degree (Dec 2023)
+- 🧑🏾‍💼 My name is Emmanuel and I'm a Software Developer at the Verkada
 - 👀 I’m interested in Full-Stack development, High Frequency Trading or Database Admin Roles
 - 🌱 I excel at Java, C++, Python and the MERN Stack
 
